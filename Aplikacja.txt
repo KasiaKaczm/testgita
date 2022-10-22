@@ -3,8 +3,18 @@
         System.out.println("Podaj hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
+
    public void logowanie google() {
         System.out.println("Podaj email z gmaila");
+=======
+   public void logowanie microsoft() {
+        System.out.println("Podaj nazwę użytkownika microsoft");
+        System.out.println("Podaj hasło");
+        System.out.println("Kliknij na przycisk zaloguj");
+    }
+
+   public void logowanie microsoft() {
+        System.out.println("Podaj nazwę użytkownika microsoft");
         System.out.println("Podaj hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
